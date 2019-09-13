@@ -1,0 +1,2 @@
+echo "tthis ne git version "
+
